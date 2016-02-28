@@ -1,0 +1,3 @@
+[submodule "Matplotlib_Note"]
+	path = Matplotlib_Note
+	url = https://github.com/dboyliao/Matplotlib_notes.git
